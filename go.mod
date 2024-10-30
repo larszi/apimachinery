@@ -1,6 +1,6 @@
 // This is a generated file. Do not edit directly.
 
-module k8s.io/apimachinery
+module github.com/larszi/apimachinery
 
 go 1.23.0
 
