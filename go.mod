@@ -2,9 +2,9 @@
 
 module github.com/larszi/apimachinery
 
-go 1.23.0
+go 1.22.7
 
-godebug default=go1.23
+godebug default=go1.22.7
 
 require (
 	github.com/armon/go-socks5 v0.0.0-20160902184237-e75332964ef5
